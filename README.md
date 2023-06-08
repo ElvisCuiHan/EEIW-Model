@@ -1,2 +1,2 @@
-# CompetitiveSwarmOptimizer
-A Git repo for Competitive Swarm Optimizer with Mutated Agents (CSOMA)
+# The Exponentiated Exponential-Inverse Weibull Model
+A Git repo for the Exponentiated Exponential-Inverse Weibull (EE-IW) Model 
