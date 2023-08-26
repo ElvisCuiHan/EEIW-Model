@@ -7,6 +7,7 @@ Theory and Application to COVID-19 Data in Saudi Arabia.
 This file implements the EE-IW distribution.
 
 ** Author **
+ Sisi Shao, Department of Biostatistics, Anderson School of Management. UCLA.
  Elvis Han Cui, Department of Biostatistics, UCLA.
 
 .. [BS2022] M. Badr and G. Sobahi, "The Exponentiated Exponential-
